@@ -1,5 +1,5 @@
 {
-	"app_name": "app-demo-prod",
+	"app_name": "app-demo-production",
 	"slug_id": "ef22dde6-f9fc-4831-ba74-4646276d4685",
 	"upload_url": "https://s3-external-1.amazonaws.com/heroku-slugs-us/ef22/ef22dde6-f9fc-4831-ba74-4646276d4685.tar.gz?AWSAccessKeyId=AKIAJQEIEH544PNXTZNQ&Signature=jxhYQpzIS2KW5woithXLQu48aWs%3D&Expires=1538810716"
 }
