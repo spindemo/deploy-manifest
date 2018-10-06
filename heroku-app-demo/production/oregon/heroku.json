@@ -1,5 +1,5 @@
 {
 	"app_name": "app-demo-prod",
-	"slug_id": "277402eb-8745-4c96-85b2-bddc33ddc93f",
-	"upload_url": "https://space-b74b681b-d241-45d3-bfa3-34025f97b2de-slugs.s3.us-west-2.amazonaws.com/277402eb-8745-4c96-85b2-bddc33ddc93f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIATHNZKAFZO7CGC54J%2F20181005%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20181005T202427Z&X-Amz-Expires=3600&X-Amz-Security-Token=FQoGZXIvYXdzED0aDAhET8ADzIIjqB5PFSK3A2N%2BKlmFhomnjwiIEkY%2Be4FBnic4tq3liS8HFobz%2BU5y5IkRq9SZj%2BY0m3k0o%2Fb4xlFA71W9qxSL4XWFeuSROccIOImylWOuzitovAekvJ4sV%2BExBztVWFndQ304gX8vS%2Fq%2FzMq4bDPA5ECXxEUtrgnhjaiIRoNdeho7GdgQE54%2FzLTjRqlq3P6p2StUL%2FToQBDv4h%2FNubVXW4zCZV1PbTSzT0DS3X2MqTE6s%2FOFJd9j8F0OeyOAa%2BndzjDSW4qfdW6Alax%2FkZjJdLW05p9pT30ZWZO62FkG8iLOJ2MrpDpAZEPEvJyZfaxFXpOU603BDaEJkM5LdmB2QwPKiq4kMHt9LtlH6DcnoVuIqRymKth3bWa0P2hfNdw6ZVroEt5xTQxWpbdBqJW1RkVHk7BD2au%2BuJfgP26H9otZNvZYF4c%2F9NyYwUcaNUw1cHKHGjQi3cnEz5GPhZV%2FuQdX1U3Z%2FGwyDBk%2BffYFJeRTCCxUu3HTRqJhZo%2Bn1%2F%2Fu82HryFsG%2FTmTMXLpS8UcrR4dQ5KIbG5Cu3K5umgwOpaM18XOKezSEP%2FUWPLBNZfxMYU04h7DJSXFc7ZZndAolfne3QU%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=23978b7a20cda1772693c4bfb48e125828744559d572a736ca144c097cae5678"
+	"slug_id": "a978e836-f920-4807-9fa1-4df1f0813a95",
+	"upload_url": "https://s3-external-1.amazonaws.com/heroku-slugs-us/a978/a978e836-f920-4807-9fa1-4df1f0813a95.tar.gz?AWSAccessKeyId=AKIAJQEIEH544PNXTZNQ&Signature=sAWOzLePysZ43y0%2B77nV3di9SA4%3D&Expires=1538792601"
 }
