@@ -1,5 +1,5 @@
 {
 	"app_name": "app-demo-production",
-	"slug_id": "68312b8f-0baf-4e90-b0ec-1955a87b0129",
-	"upload_url": "https://s3-external-1.amazonaws.com/heroku-slugs-us/6831/68312b8f-0baf-4e90-b0ec-1955a87b0129.tar.gz?AWSAccessKeyId=AKIAJQEIEH544PNXTZNQ&Signature=aQ9ibJEO8IUrKwDW0p6jQeUM8vI%3D&Expires=1539216647"
+	"slug_id": "1e05d052-145a-45e3-bda5-3ad8f1357eba",
+	"upload_url": "https://s3-external-1.amazonaws.com/heroku-slugs-us/1e05/1e05d052-145a-45e3-bda5-3ad8f1357eba.tar.gz?AWSAccessKeyId=AKIAJQEIEH544PNXTZNQ&Signature=iawzV%2FDbbIur7b5mQyiJR21FVrg%3D&Expires=1539377823"
 }
